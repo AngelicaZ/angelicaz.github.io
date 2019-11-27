@@ -41,11 +41,13 @@ Here is my [CV](./CV_Chenyu Zhang.pdf).
 
 # Publication
 
-[1] Zhonghan Zhang, Yancao Jiang, <b>Chenyu Zhang</b>, Chun Zhang, and Xiangyu Li. “The Optimization of Localization and Navigation for Vision-Based Robot”, accepted for lecture presentation by <i>IEEE International Conference on Integrated Circuits, Technologies and Applications</i> (ICTA 2019), full paper in press.
+[1] Tuo Xie, Hanjin Jiang, <b>Chenyu Zhang</b>, Ting Wang, Chun Zhang, and Zhihua Wang. “Model-based K-means Clustering for Lane Detection”, submitted to <i>Electronic Letters</i>, Nov. 2019.
 
-[2] <b>Chenyu Zhang</b>, Cunjun Ruan, “Investigation of W-band High Power TWT Amplifier with Broadband Output Window”. accepted by <i>PhotonIcs & Electromagnetics Research Symposium</i> (PIERS 2019), full paper in press.  
+[2]Zhonghan Zhang, Yancao Jiang, <b>Chenyu Zhang</b>, Chun Zhang, and Xiangyu Li. “The Optimization of Localization and Navigation for Vision-Based Robot”, accepted for lecture presentation by <i>IEEE International Conference on Integrated Circuits, Technologies and Applications</i> (ICTA 2019), full paper in press.
 
-[3] Renjie Li, Cunjun Ruan, Ayesha Fahad, <b>Chenyu Zhang</b>, and Shasha Li. “[Broadband and high-power terahertz radiation source based on extended interaction klystron](https://www.nature.com/articles/s41598-019-41087-3)”, *Scientific Reports*, Mar. 2019. Vol.9, pp.4584-1-8 (SCI:000461159600061, Q1, 4.011, 2018) (DOI : 10.1038/s41598- 019-41087-3)
+[3] <b>Chenyu Zhang</b>, Cunjun Ruan, “Investigation of W-band High Power TWT Amplifier with Broadband Output Window”. accepted by <i>PhotonIcs & Electromagnetics Research Symposium</i> (PIERS 2019), full paper in press.  
+
+[4] Renjie Li, Cunjun Ruan, Ayesha Fahad, <b>Chenyu Zhang</b>, and Shasha Li. “[Broadband and high-power terahertz radiation source based on extended interaction klystron](https://www.nature.com/articles/s41598-019-41087-3)”, *Scientific Reports*, Mar. 2019. Vol.9, pp.4584-1-8 (SCI:000461159600061, Q1, 4.011, 2018) (DOI : 10.1038/s41598- 019-41087-3)
 
 <br>
 <br>

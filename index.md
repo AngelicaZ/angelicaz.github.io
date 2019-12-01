@@ -54,6 +54,7 @@ Here is my [CV](./CV_Chenyu Zhang.pdf).
 # Honors
 
 * *2019* &nbsp;  Yuanhang Undergraduate Summer Overseas Research Scholarship
+* *2019* &nbsp; Third Prize in Class B of Innovation and Entrepreneurship Scholarship by Ministry of Industrialization Information
 * *2018*  &nbsp; **Excellent Ranking** of National Undergraduate Training Program for Innovation and Entrepreneurship
 * *2018* &nbsp;  **Special Award** of Academic Scholarship (top 3%)
 * *2018*  &nbsp; **First Prize** of CUPT (China Undergraduate Physics Tournament) in North China Division, as the **Captain** of the Beihang Team Ⅱ

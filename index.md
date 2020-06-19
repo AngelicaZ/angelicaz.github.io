@@ -41,7 +41,7 @@ Here is my [CV](./CV_Chenyu Zhang.pdf).
 
 # Publication
 
-[1] <b>Chenyu Zhang</b> and Chun Zhang. “Application of Improved K-means Algorithm in Multi-track Clustering”, submitted to <i>IEEE International conference on Image Processing</i> (ICIP 2020).
+[1] <b>Chenyu Zhang</b> and Chun Zhang. “Application of Improved K-means Algorithm in Multi-track Clustering”, submitted to <i>IEEE International conference on Image Processing</i> (ICIP 2021).
 
 
 [2] Tuo Xie, Hanjin Jiang, <b>Chenyu Zhang</b>, Ting Wang, Chun Zhang, and Zhihua Wang. “Model-based K-means Clustering for Lane Detection”, submitted to <i>Electronic Letters</i>, Nov. 2019.

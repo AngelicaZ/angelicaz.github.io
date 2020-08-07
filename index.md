@@ -1,11 +1,11 @@
 # Welcome to Chenyu Zhang's Page
 
 CHENYU ZHANG <br>
-School of Electronic and Information Engineering <br>
-Beihang University <br>
-email: <cyzhang1671@gmail.com>
+Whiting School of Engineering <br>
+Johns Hopkins University <br>
+email: <czhan129@jhu.edu>
 
-I am a senior undergraduate student major in [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/xyjj1/xyjs.htm), [Beihang  University](https://ev.buaa.edu.cn/). I joined Prof.[Cunjun Ruan](http://www.ee.buaa.edu.cn/info/1129/17618.htm)'s lab in 2017, studying in the field of **vacuum electronic devices**. In 2018 summer, I joined Prof.[Chun Zhang](https://www.tsinghua.edu.cn/publish/ime/5910/2015/20150315131055824979933/20150315131055824979933_.html)'s lab in [Institute of Microelectronics](https://www.tsinghua.edu.cn/publish/imeen/5943/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), studying in the field of **image-processing algorithms and robotics**. I visited [National University of Singapore](http://www.nus.edu.sg/) in 2019 summer and collaborated with Prof.[Loh Ai Poh](https://www.eng.nus.edu.sg/idp/staff/lohaipoh/) in the field of **robotics**.
+I am an incoming dergraduate student major in Robotics M.S.E. in [the Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). I joined Prof.[Cunjun Ruan](http://www.ee.buaa.edu.cn/info/1129/17618.htm)'s lab in 2017, studying in the field of **vacuum electronic devices**. In 2018 summer, I joined Prof.[Chun Zhang](https://www.tsinghua.edu.cn/publish/ime/5910/2015/20150315131055824979933/20150315131055824979933_.html)'s lab in [Institute of Microelectronics](https://www.tsinghua.edu.cn/publish/imeen/5943/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), studying in the field of **image-processing algorithms and robotics**. I visited [National University of Singapore](http://www.nus.edu.sg/) in 2019 summer and collaborated with Prof.[Loh Ai Poh](https://www.eng.nus.edu.sg/idp/staff/lohaipoh/) in the field of **robotics**.
 
 
 
@@ -37,6 +37,14 @@ Here is my [CV](./CV_Chenyu Zhang.pdf).
  </p>
 
 <br>
+ <img style="float: left;" src="assets/img/JHU.jpg" width="80" height="100">
+ <br>
+ <p style="text-align: right"> 
+ <b> Johns Hopkins University </b>   <br>
+ <i> Master of Science in Engineering </i>
+ </p>
+
+<br>
 <br>
 
 # Publication
@@ -44,7 +52,7 @@ Here is my [CV](./CV_Chenyu Zhang.pdf).
 [1] <b>Chenyu Zhang</b> and Chun Zhang. “Application of Improved K-means Algorithm in Multi-track Clustering”, submitted to <i>IEEE International conference on Image Processing</i> (ICIP 2021).
 
 
-[2] Tuo Xie, Hanjin Jiang, <b>Chenyu Zhang</b>, Ting Wang, Chun Zhang, and Zhihua Wang. “Model-based K-means Clustering for Lane Detection”, submitted to <i>Electronic Letters</i>, Nov. 2019.
+[2] Zheng Zhang, Cunjun Ruan, <b>Chenyu Zhang</b>, Ayesha Kosar Fahad, Yiyang Su, Pengpeng Wang, Wenlong He, “Multiple Beam and Double-mode Staggered Double Vane Travelling Wave Tube with Ultra-wide Band”, submitted to <i>Scientific Reports</i>.
 
 [3]Zhonghan Zhang, Yancao Jiang, <b>Chenyu Zhang</b>, Chun Zhang, and Xiangyu Li. “The Optimization of Localization and Navigation for Vision-Based Robot”, accepted for lecture presentation by <i>IEEE International Conference on Integrated Circuits, Technologies and Applications</i> (ICTA 2019), full paper in press.
 
@@ -56,6 +64,7 @@ Here is my [CV](./CV_Chenyu Zhang.pdf).
 <br>
 # Honors
 
+* *2020* &nbsp;  **Outstanding graduate** in BUAA
 * *2019* &nbsp;  Yuanhang Undergraduate Summer Overseas Research Scholarship
 * *2019* &nbsp; Third Prize in Class B of Innovation and Entrepreneurship Scholarship by Ministry of Industrialization Information
 * *2018*  &nbsp; **Excellent Ranking** of National Undergraduate Training Program for Innovation and Entrepreneurship

@@ -24,7 +24,7 @@ My research interests include robotics, widely on machine learning, computer vis
  <br>
  <p style="text-align: right"> 
  <b> Johns Hopkins University </b>   <br>
- <i> Master of Science in Engineering </i>
+ <i> M.S.E. Program in Robotics </i>
  </p>
 <br>
 

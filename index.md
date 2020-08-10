@@ -16,10 +16,7 @@ Before entering JHU, I joined Prof.[Cunjun Ruan](http://www.ee.buaa.edu.cn/info/
 My research interests include robotics, widely on machine learning, computer vision and large scale data analytics. I firmly believe that huge contributions could be made in researching these fields.
 
 <br>
-# Resume
 
-Here is my [CV](./CV_Chenyu Zhang.pdf).
-<br><br>
 # Education
 
 <br>

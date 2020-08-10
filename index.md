@@ -5,7 +5,7 @@ Whiting School of Engineering <br>
 Johns Hopkins University <br>
 email: <czhan129@jhu.edu>
 
-I am an incoming dergraduate student major in Robotics M.S.E. in [the Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). 
+I am an incoming graduate student of the M.S.E. program in Robotics in [the Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). 
 
 
 
@@ -13,7 +13,7 @@ Before entering JHU, I joined Prof.[Cunjun Ruan](http://www.ee.buaa.edu.cn/info/
 
 
 
-My research interests include robotics, widely on machine learning, computer vision and large scale data analytics. I firmly believe that huge contributions could be made in researching these fields.
+My research interests include robotics, widely on machine learning, computer vision and large scale data analytics. I firmly believe that huge contributions could be made with interdisciplinary among these fields.
 
 <br>
 

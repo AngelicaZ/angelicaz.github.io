@@ -5,7 +5,11 @@ Whiting School of Engineering <br>
 Johns Hopkins University <br>
 email: <czhan129@jhu.edu>
 
-I am an incoming dergraduate student major in Robotics M.S.E. in [the Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). I joined Prof.[Cunjun Ruan](http://www.ee.buaa.edu.cn/info/1129/17618.htm)'s lab in 2017, studying in the field of **vacuum electronic devices**. In 2018 summer, I joined Prof.[Chun Zhang](https://www.tsinghua.edu.cn/publish/ime/5910/2015/20150315131055824979933/20150315131055824979933_.html)'s lab in [Institute of Microelectronics](https://www.tsinghua.edu.cn/publish/imeen/5943/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), studying in the field of **image-processing algorithms and robotics**. I visited [National University of Singapore](http://www.nus.edu.sg/) in 2019 summer and collaborated with Prof.[Loh Ai Poh](https://www.eng.nus.edu.sg/idp/staff/lohaipoh/) in the field of **robotics**.
+I am an incoming dergraduate student major in Robotics M.S.E. in [the Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). 
+
+
+
+Before entering JHU, I joined Prof.[Cunjun Ruan](http://www.ee.buaa.edu.cn/info/1129/17618.htm)'s lab in 2017, conducting research in the field of **vacuum electronic devices**. In 2018 summer, I joined Prof.[Chun Zhang](https://www.tsinghua.edu.cn/publish/ime/5910/2015/20150315131055824979933/20150315131055824979933_.html)'s lab in [Institute of Microelectronics](https://www.tsinghua.edu.cn/publish/imeen/5943/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), working in the field of **image-processing algorithms and robotics**. In 2019 summer, I visited [National University of Singapore](http://www.nus.edu.sg/)  and collaborated with Prof.[Loh Ai Poh](https://www.eng.nus.edu.sg/idp/staff/lohaipoh/) in the field of **robotics**.
 
 
 
@@ -17,6 +21,15 @@ My research interests include robotics, widely on machine learning, computer vis
 Here is my [CV](./CV_Chenyu Zhang.pdf).
 <br><br>
 # Education
+
+<br>
+ <img style="float: left;" src="assets/img/JHU.jpg" width="80" height="100">
+ <br>
+ <p style="text-align: right"> 
+ <b> Johns Hopkins University </b>   <br>
+ <i> Master of Science in Engineering </i>
+ </p>
+<br>
 
  <img style="float: left;" src="assets/img/Beihang.jpg" width="80" height="80">  
  
@@ -36,13 +49,7 @@ Here is my [CV](./CV_Chenyu Zhang.pdf).
  <i> Visiting Student, Jul. 2019 - Sep. 2019 </i>
  </p>
 
-<br>
- <img style="float: left;" src="assets/img/JHU.jpg" width="80" height="100">
- <br>
- <p style="text-align: right"> 
- <b> Johns Hopkins University </b>   <br>
- <i> Master of Science in Engineering </i>
- </p>
+
 
 <br>
 <br>

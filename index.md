@@ -1,15 +1,15 @@
 # Welcome to Angelica C. Zhang's Page
 
 ANGELICA C. ZHANG <br>
-Whiting School of Engineering <br>
-Johns Hopkins University <br>
-email: <czhan129@jhu.edu>
+Electronic and Information Engineering Department <br>
+Beihang University <br>
+email: <zhangcy_buaa@163.com>
 
-I am an incoming graduate student of the M.S.E. program in Robotics in [the Whiting School of Engineering](https://engineering.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/). 
+I am an graduate student of [the Electronic and Information Engineering Department] (http://www.ee.buaa.edu.cn/xyjj1/xyjs.htm), [Beihang University](https://ev.buaa.edu.cn/). 
 
 
 
-Before entering JHU, I joined Prof.[Cunjun Ruan](http://www.ee.buaa.edu.cn/info/1129/17618.htm)'s lab in 2017, conducting research in the field of **vacuum electronic devices**. In 2018 summer, I joined Prof.[Chun Zhang](https://www.tsinghua.edu.cn/publish/ime/5910/2015/20150315131055824979933/20150315131055824979933_.html)'s lab in [Institute of Microelectronics](https://www.tsinghua.edu.cn/publish/imeen/5943/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), working in the field of **image-processing algorithms and robotics**. In 2019 summer, I visited [National University of Singapore](http://www.nus.edu.sg/)  and collaborated with Prof.[Loh Ai Poh](https://www.eng.nus.edu.sg/idp/staff/lohaipoh/) in the field of **robotics**.
+In my undergraduate time, I joined Prof.[Cunjun Ruan](http://www.ee.buaa.edu.cn/info/1129/17618.htm)'s lab in 2017, conducting research in the field of **vacuum electronic devices**. In 2018 summer, I joined Prof.[Chun Zhang](https://www.tsinghua.edu.cn/publish/ime/5910/2015/20150315131055824979933/20150315131055824979933_.html)'s lab in [Institute of Microelectronics](https://www.tsinghua.edu.cn/publish/imeen/5943/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html), working in the field of **image-processing algorithms and robotics**. In 2019 summer, I visited [National University of Singapore](http://www.nus.edu.sg/)  and collaborated with Prof.[Loh Ai Poh](https://www.eng.nus.edu.sg/idp/staff/lohaipoh/) in the field of **robotics**. In 2020 summer, I joined Momenta as an R&D intern to work on SLAM algorithm and HD Map.
 
 
 
@@ -19,14 +19,14 @@ My research interests include robotics, widely on machine learning, computer vis
 
 # Education
 
-<br>
+<!-- <br>
  <img style="float: left;" src="assets/img/JHU.jpg" width="80" height="100">
  <br>
  <p style="text-align: right"> 
  <b> Johns Hopkins University </b>   <br>
  <i> M.S.E. Program in Robotics </i>
  </p>
-<br>
+<br> -->
 
  <img style="float: left;" src="assets/img/Beihang.jpg" width="80" height="80">  
  
@@ -46,7 +46,15 @@ My research interests include robotics, widely on machine learning, computer vis
  <i> Visiting Student, Jul. 2019 - Sep. 2019 </i>
  </p>
 
-
+<br>
+<br>
+# Industry Experience
+ <img style="float: right;" src="assets/img/momenta.jpg" width="80" height="80">  
+ 
+ <p style="text-align: right">  
+ <b> [MOMENTA] (https://www.momenta.cn/en/) </b> <br>
+ <i> R&D Intern </i> 
+ </p>
 
 <br>
 <br>

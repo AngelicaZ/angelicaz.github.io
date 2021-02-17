@@ -5,7 +5,7 @@ Electronic and Information Engineering Department <br>
 Beihang University <br>
 email: <zhangcy_buaa@163.com>
 
-I am an graduate student of [the Electronic and Information Engineering Department](http://www.ee.buaa.edu.cn/xyjj1/xyjs.htm), [Beihang University] (https://ev.buaa.edu.cn/). 
+I am an graduate student of [the Electronic and Information Engineering Department](http://www.ee.buaa.edu.cn/xyjj1/xyjs.htm), [Beihang University](https://ev.buaa.edu.cn/). 
 
 
 
@@ -52,7 +52,7 @@ My research interests include robotics, widely on machine learning, computer vis
  <img style="float: right;" src="assets/img/momenta.jpg" width="80" height="80">  
  
  <p style="text-align: right">  
-[MOMENTA](https://www.momenta.cn/en/) </b> 
+[MOMENTA](https://www.momenta.cn/en/)
  <br>
  <i> R&D Intern </i> 
  </p>

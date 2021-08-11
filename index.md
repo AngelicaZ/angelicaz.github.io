@@ -62,9 +62,9 @@ My research interests include robotics, widely on machine learning and computer 
 
 # Publications
 
-[1]Zhang Z., Jiang Y., <b>Zhang C.</b>, Zhang C., and Li X. “The Optimization of Localization and Navigation for Vision-Based Robot”, <i>IEEE International Conference on Integrated Circuits, Technologies and Applications</i> (ICTA 2019), p.180-181, 13-15 Nov. 2019.
+[1]Zhang Z., Jiang Y., <b>Zhang C.</b>, Zhang C., and Li X. “[The Optimization of Localization and Navigation for Vision-Based Robot](https://ieeexplore.ieee.org/abstract/document/9012838?casa_token=KexMHKzXrpUAAAAA:yiLi5G_GxbofAOo4rsZ8tUuPVyfHg1yLrsFgSDWSEamVw1gF-7Zvt_16Ifh_FjqItPJe3MMNPXsL)”, <i>IEEE International Conference on Integrated Circuits, Technologies and Applications</i> (ICTA 2019), p.180-181, 13-15 Nov. 2019.
 
-[2] <b>Zhang C.</b>, Ruan C., “Investigation of W-band High Power TWT Amplifier with Broadband Output Window”. <i>PhotonIcs & Electromagnetics Research Symposium</i> (PIERS 2019), p.560-565, 17-20 Dec. 2019.  
+[2] <b>Zhang C.</b>, Ruan C., “[Investigation of W-band High Power TWT Amplifier with Broadband Output Window](https://ieeexplore.ieee.org/abstract/document/9021869)”. <i>PhotonIcs & Electromagnetics Research Symposium</i> (PIERS 2019), p.560-565, 17-20 Dec. 2019.  
 
 [3] Li R., Ruan C., Fahad A., <b>Zhang C.</b>, and Li S.. “[Broadband and high-power terahertz radiation source based on extended interaction klystron](https://www.nature.com/articles/s41598-019-41087-3)”, *Scientific Reports*, 2019, 9:4584.
 

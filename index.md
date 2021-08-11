@@ -52,7 +52,7 @@ My research interests include robotics, widely on machine learning and computer 
 # Industry Experience
  <img style="float: right;" src="assets/img/momenta.jpg" width="80" height="80">  
  
- <p style="text-align: right">  
+ <p style="text-align: right">  <br> <br>
 <b> Momenta </b>   <br>
  <i> R&D Intern </i> 
  </p>

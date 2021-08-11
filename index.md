@@ -54,7 +54,7 @@ My research interests include robotics, widely on machine learning and computer 
  
  <p style="text-align: right">  <br>
 <b> Momenta </b>   <br>
- <i> R&D Intern </i> 
+ <i> R&D Intern，Aug. 2020 - Jan. 2021 </i> 
  </p>
 
 <br>

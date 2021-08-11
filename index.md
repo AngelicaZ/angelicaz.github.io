@@ -19,14 +19,15 @@ My research interests include robotics, widely on machine learning and computer 
 
 # Education
 
-<!-- <br>
+
  <img style="float: left;" src="assets/img/JHU.jpg" width="80" height="100">
  <br>
  <p style="text-align: right"> 
  <b> Johns Hopkins University </b>   <br>
  <i> M.S.E. Program in Robotics </i>
  </p>
-<br> -->
+
+ <br>
 
  <img style="float: left;" src="assets/img/Beihang.jpg" width="80" height="80">  
  

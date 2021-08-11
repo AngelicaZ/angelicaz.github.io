@@ -24,7 +24,7 @@ My research interests include robotics, widely on machine learning and computer 
  <br>
  <p style="text-align: right"> 
  <b> Johns Hopkins University </b>   <br>
- <i> M.S.E. Program in Robotics </i>
+ <i> M.S.E. Program in Robotics，Jan. 2021 - now </i>
  </p>
 
  <br>

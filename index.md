@@ -62,7 +62,7 @@ My research interests include robotics, widely on machine learning, computer vis
 
 # Publications
 
-[1] 1)	Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>, submitted.
+[1] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>, submitted.
 
 
 [2] Zhang Z., Jiang Y., <b>Zhang C.</b>, Zhang C., and Li X. “[The Optimization of Localization and Navigation for Vision-Based Robot](https://ieeexplore.ieee.org/abstract/document/9012838?casa_token=KexMHKzXrpUAAAAA:yiLi5G_GxbofAOo4rsZ8tUuPVyfHg1yLrsFgSDWSEamVw1gF-7Zvt_16Ifh_FjqItPJe3MMNPXsL)”, <i>IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA 2019)</i>, p.180-181, 13-15 Nov. 2019.

@@ -5,7 +5,7 @@ M.S.E. in Robotics <br>
 Johns Hopkins University <br>
 email: <czhan129@jhu.edu>
 
-I am a first year M.S. student of [the M.S.E. program in Robotics](https://lcsr.jhu.edu/MSE/) in [the Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu//). 
+I am a second year M.S. student of [the M.S.E. program in Robotics](https://lcsr.jhu.edu/MSE/) in [the Laboratory for Computational Sensing and Robotics (LCSR)](https://lcsr.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu//). 
 
 
 

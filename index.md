@@ -49,7 +49,7 @@ My research interests include computer vision, widely on machine learning and mu
 
   <br>
  
- <img style="float: left;" src="assets/img/UBonn.png" width="80" height="100">
+ <img style="float: left;" src="assets/img/UBonn.png" width="80" height="80">
  <br>
  <p style="text-align: right"> 
  <b> Rheinische Friedrich-Wilhelms-Universität Bonn </b>   <br>

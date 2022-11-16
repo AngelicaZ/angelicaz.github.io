@@ -71,7 +71,7 @@ My research interests include computer vision, widely on machine learning and mu
 
 # Publications
 
-[1] <b>Chenyu Zhang</b>, Zhuowan Li, Alan Yuille. “Seq2Seq Scene Graph Generation Utilizing Vision-language Pretrained Model”, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023), plan to submit.
+[1] <b>Chenyu Zhang</b>, Zhuowan Li, Alan Yuille. “Seq2Seq Scene Graph Generation Utilizing Vision-language Pretrained Model”, plan to submit as master essay.
 
 [2] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>, accepted.
 

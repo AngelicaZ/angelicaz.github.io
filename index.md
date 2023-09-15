@@ -19,7 +19,7 @@ I am an incoming PhD student of [Multimedia and Human Understanding Group](http:
 # Education
 
  <img style="float: left;" src="assets/img/unitn.png" width="100" height="100">
- <img src="assets/img/ellis.png" width="100" height="100">
+ <img style="float: left;" src="assets/img/ellis.png" width="100" height="100">
  <p style="text-align: right"> 
  <b> the University of Trento </b>   <br>
  <b> the ELLIS PhD Program </b>   <br>
@@ -79,7 +79,7 @@ I am an incoming PhD student of [Multimedia and Human Understanding Group](http:
 
 # Selected Publications
 
-[1] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>, accepted.
+[1] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>.
 
 <br>
 # Academic Service

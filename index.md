@@ -4,7 +4,7 @@ PhD student <br>
 the University of Trento <br>
 email: <chenyu.zhang@studenti.unitn.it>
 
-I am an incoming PhD student of [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/), [the University of Trento](https://www.unitn.it/). I am also in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/).
+I am an incoming PhD student of [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/), [the University of Trento](https://www.unitn.it/). I am also in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/). My current research interests are on flow matching, Schrödinger Bridge and image generation.
 
 
 
@@ -22,8 +22,8 @@ I am an incoming PhD student of [Multimedia and Human Understanding Group](http:
  <img style="float: left;" src="assets/img/ellis.png" width="100" height="100">
  <br>
  <p style="text-align: right"> 
- <b> the University of Trento </b>   <br>
- <b> the ELLIS PhD Program </b>   <br>
+ <b> University of Trento </b>   <br>
+ <b> ELLIS PhD Program </b>   <br>
  <i> PhD student，Nov. 2023 - Apr. 2027 </i>
  </p>
 
@@ -90,8 +90,8 @@ Reviewer: CVPR, ICCV
 <br>
 # Selected Honors
 
-* *2021* &nbsp;  the LCSR Distinguished Scholarship
-* *2020* &nbsp;  University Outstanding Undergraduate Student
+* *2021* &nbsp;  the LCSR Distinguished Scholarship, Johns Hopkins University
+* *2020* &nbsp;  University Outstanding Undergraduate Student, Beihang University
 * *2018* &nbsp;  First Prize of CUPT (China Undergraduate Physics Tournament) in North China Division, as the Captain of the Team Ⅱ
-* *2017* &nbsp;  Competitive-world Scholarship (top 1%)
+* *2017* &nbsp;  Competitive-world Scholarship (top 1%), Beihang University
 

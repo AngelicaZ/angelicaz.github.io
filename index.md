@@ -20,6 +20,7 @@ I am an incoming PhD student of [Multimedia and Human Understanding Group](http:
 
  <img style="float: left;" src="assets/img/unitn.png" width="100" height="100">
  <img style="float: left;" src="assets/img/ellis.png" width="100" height="100">
+ <br>
  <p style="text-align: right"> 
  <b> the University of Trento </b>   <br>
  <b> the ELLIS PhD Program </b>   <br>

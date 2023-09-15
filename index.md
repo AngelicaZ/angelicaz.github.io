@@ -18,8 +18,8 @@ I am an incoming PhD student of [Multimedia and Human Understanding Group](http:
 
 # Education
 
- <img style="float: left;" src="assets/img/unitn.png" width="80" height="100">
- <img src="assets/img/ellis.png" width="80" height="100">
+ <img style="float: left;" src="assets/img/unitn.png" width="100" height="100">
+ <img src="assets/img/ellis.png" width="100" height="100">
  <p style="text-align: right"> 
  <b> the University of Trento </b>   <br>
  <b> the ELLIS PhD Program </b>   <br>

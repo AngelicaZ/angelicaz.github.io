@@ -2,7 +2,7 @@
 CHENYU ZHANG <br>
 PhD student <br>
 the University of Trento <br>
-email: <chenyu.zhang@studenti.unitn.it>
+email: <chenyu.zhang@unitn.it>
 
 I am an incoming PhD student of [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/), [the University of Trento](https://www.unitn.it/). I am also in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/). My current research interests are on flow matching, Schrödinger Bridge and image generation.
 

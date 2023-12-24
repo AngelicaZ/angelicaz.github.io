@@ -3,8 +3,9 @@ CHENYU ZHANG <br>
 PhD student <br>
 the University of Trento <br>
 email: <chenyu.zhang@unitn.it>
+[google scholar](https://scholar.google.com/citations?hl=en&user=mhQQsNgAAAAJ)
 
-I am a first year PhD student of [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/), [the University of Trento](https://www.unitn.it/). I am also in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/). My current research interests are on flow matching, Schrödinger Bridge and image generation.
+I am a first year PhD student of [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/), [the University of Trento](https://www.unitn.it/). I am also in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/). My current research interests are on flow matching, Schrödinger Bridge, image generation and physics-based deep learning.
 
 
 
@@ -16,7 +17,7 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
 
 <br>
 
-# Education
+## Education
 
  <img style="float: left;" src="assets/img/unitn.png" width="100" height="100">
  <img style="float: left;" src="assets/img/ellis.png" width="100" height="100">
@@ -67,7 +68,8 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
 
 <br>
 <br>
-# Industry Experience
+
+## Industry Experience
  <img style="float: right;" src="assets/img/momenta.jpg" width="80" height="80">  
  
  <p style="text-align: right">  <br>
@@ -78,19 +80,21 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
 <br>
 <br>
 
-# Selected Publications
+## Selected Publications
 
 [1] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>.
 
 <br>
-# Academic Service
+
+## Academic Service
 Reviewer: 
-CVPR 2023, 2024. 
+CVPR 2023, 2024. <br>
 ICCV 2023  
 
 
 <br>
-# Selected Honors
+
+## Selected Honors
 
 * *2021* &nbsp;  the LCSR Distinguished Scholarship, Johns Hopkins University
 * *2020* &nbsp;  University Outstanding Undergraduate Student, Beihang University

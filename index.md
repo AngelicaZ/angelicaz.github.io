@@ -86,7 +86,7 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
 
 <br>
 
-## Academic Service
+## Academic Services
 Reviewer: <br>
 CVPR 2023, 2024. <br>
 ICCV 2023.  <br>

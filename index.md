@@ -5,7 +5,7 @@ the University of Trento <br>
 email: <chenyu.zhang@unitn.it><br>
 [google scholar](https://scholar.google.com/citations?hl=en&user=mhQQsNgAAAAJ)
 
-I am a first year PhD student of [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/), [the University of Trento](https://www.unitn.it/). I am also in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/). My current research interests are on flow matching, Schrödinger Bridge, image generation and physics-based deep learning.
+I am a first year PhD student of [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/), [the University of Trento](https://www.unitn.it/). I am also in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/). My current research interests are on flow matching, Schrödinger Bridge, image generation and physics-based deep learning. Before PhD, I worked with [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) in [Johns Hopkins University](https://www.jhu.edu/), on the topic of visual question answering and scene graph generation.
 
 
 
@@ -89,7 +89,9 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
 ## Academic Service
 Reviewer: <br>
 CVPR 2023, 2024. <br>
-ICCV 2023  
+ICCV 2023.  <br>
+ECCV 2024.  <br>
+ACCV 2024.
 
 
 <br>

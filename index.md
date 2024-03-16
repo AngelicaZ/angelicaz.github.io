@@ -20,7 +20,7 @@ co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) i
  <br>
  <b> ELLIS PhD Program </b>   <br>
  <b> University of Trento </b>   <br>
- <i> PhD student，Nov. 2023 - Apr. 2027 </i>
+ <i> PhD student in Computer Science，Nov. 2023 - Apr. 2027 </i>
  </p>
 
  <br>

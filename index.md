@@ -1,11 +1,12 @@
 
 CHENYU ZHANG <br>
-PhD student <br>
-the University of Trento <br>
+ELLIS PhD student <br>
+<!-- the University of Trento <br> -->
 email: <chenyu.zhang@unitn.it><br>
 [google scholar](https://scholar.google.com/citations?hl=en&user=mhQQsNgAAAAJ)
 
-I am a first year PhD student of [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/), [the University of Trento](https://www.unitn.it/). I am also in the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/). My current research interests are on AI4Science, Science4AI, image generation and physics-based deep learning. Before PhD, I worked with [Prof. Dr. Alan Yuille](https://www.cs.jhu.edu/~ayuille/) in [CCVL](https://ccvl.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), on the topic of visual question answering and scene graph generation.
+I am a first year PhD student of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/) in the [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), and 
+co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) in [AMLab](https://amlab.science.uva.nl/). My current research interests are on AI4Science, Science4AI, image generation and physics-based deep learning. Before PhD, I worked with [Prof. Dr. Alan Yuille](https://www.cs.jhu.edu/~ayuille/) in [CCVL](https://ccvl.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), on the topic of visual question answering and scene graph generation. 
 
 
 
@@ -19,13 +20,23 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
 
 ## Education
 
- <img style="float: left;" src="assets/img/unitn.png" width="100" height="100">
  <img style="float: left;" src="assets/img/ellis.png" width="100" height="100">
+ <img style="float: left;" src="assets/img/unitn.png" width="100" height="100">
  <br>
  <p style="text-align: right"> 
- <b> University of Trento </b>   <br>
  <b> ELLIS PhD Program </b>   <br>
+ <b> University of Trento </b>   <br>
  <i> PhD student，Nov. 2023 - Apr. 2027 </i>
+ </p>
+
+ <br>
+
+ <img style="float: left;" src="assets/img/UvA.png" width="100" height="100">
+ <br>
+ <p style="text-align: right"> 
+ <b> ELLIS PhD Program </b>   <br>
+ <b> University of Amsterdam </b>   <br>
+ <i> exchange student </i>
  </p>
 
  <br>
@@ -38,7 +49,7 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
  </p>
 
  <br>
-
+<!-- 
  <img style="float: left;" src="assets/img/Beihang.jpg" width="80" height="80">  
  
  <p style="text-align: right">  
@@ -47,10 +58,9 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
  <i> Bachelor of Engineering, Sep. 2016 - Jul. 2020 </i> 
  </p>
 
+ <br> -->
  
- <br>
- 
- <img style="float: left;" src="assets/img/NUS.png" width="80" height="100">
+ <!-- <img style="float: left;" src="assets/img/NUS.png" width="80" height="100">
  <br>
  <p style="text-align: right"> 
  <b> National University of Singapore </b>   <br>
@@ -64,18 +74,18 @@ I am a first year PhD student of [Multimedia and Human Understanding Group](http
  <p style="text-align: right"> 
  <b> Rheinische Friedrich-Wilhelms-Universität Bonn </b>   <br>
  <i> Visiting Student, Jun. 2022 - Aug. 2022 </i>
- </p>
+ </p> -->
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
-## Industry Experience
+<!-- ## Industry Experience
  <img style="float: right;" src="assets/img/momenta.jpg" width="80" height="80">  
  
  <p style="text-align: right">  <br>
 <b> Momenta </b>   <br>
  <i> R&D Intern，Aug. 2020 - Jan. 2021 </i> 
- </p>
+ </p> -->
 
 <br>
 <br>

@@ -16,8 +16,8 @@ co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) i
 
  <img style="float: left;" src="assets/img/ellis.png" width="100" height="100">
  <img style="float: left;" src="assets/img/unitn.png" width="100" height="100">
- <br>
  <p style="text-align: right"> 
+ <br>
  <b> ELLIS PhD Program </b>   <br>
  <b> University of Trento </b>   <br>
  <i> PhD student，Nov. 2023 - Apr. 2027 </i>

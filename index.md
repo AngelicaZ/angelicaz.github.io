@@ -27,6 +27,7 @@ co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) i
 
  <img style="float: left;" src="assets/img/UvA.png" width="100" height="100">
  <p style="text-align: right"> 
+ <br>
  <b> ELLIS PhD Program </b>   <br>
  <b> University of Amsterdam </b>   <br>
  <i> exchange student </i>

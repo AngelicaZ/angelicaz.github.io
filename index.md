@@ -5,7 +5,7 @@ ELLIS PhD student <br>
 email: <chenyu.zhang@unitn.it><br>
 [google scholar](https://scholar.google.com/citations?hl=en&user=mhQQsNgAAAAJ)
 
-I am a first year PhD student of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/) in the [Multimedia and Human Understanding Group](http://mhug.disi.unitn.it/#/), and 
+I am a first year PhD student of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/) in [MHUG](http://mhug.disi.unitn.it/#/), and 
 co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) in [AMLab](https://amlab.science.uva.nl/). My current research interests are on AI4Science, Science4AI, image generation and physics-based deep learning. Before PhD, I worked with [Prof. Dr. Alan Yuille](https://www.cs.jhu.edu/~ayuille/) in [CCVL](https://ccvl.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), on the topic of visual question answering and scene graph generation. 
 
 

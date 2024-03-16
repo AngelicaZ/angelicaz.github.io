@@ -10,6 +10,28 @@ co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) i
 
 
 
+
+
+
+<br>
+<br>
+
+## Selected Publications
+
+[1] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>.
+
+<br>
+
+## Academic Services
+Reviewer: <br>
+CVPR 2023, 2024. <br>
+ICCV 2023.  <br>
+ECCV 2024.  <br>
+ACCV 2024.
+
+
+<br>
+
 <br>
 
 ## Education
@@ -42,26 +64,6 @@ co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) i
  <b> Johns Hopkins University </b>   <br>
  <i> M.S.E. Program in Robotics，Jan. 2021 - Dec. 2022 </i>
  </p>
-
-<br>
-
-
-<br>
-<br>
-
-## Selected Publications
-
-[1] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>.
-
-<br>
-
-## Academic Services
-Reviewer: <br>
-CVPR 2023, 2024. <br>
-ICCV 2023.  <br>
-ECCV 2024.  <br>
-ACCV 2024.
-
 
 <br>
 

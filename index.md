@@ -36,8 +36,8 @@ co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) i
  <br>
 
  <img style="float: left;" src="assets/img/JHU.jpg" width="80" height="100">
- <br>
  <p style="text-align: right"> 
+ <br>
  <b> Johns Hopkins University </b>   <br>
  <i> M.S.E. Program in Robotics，Jan. 2021 - Dec. 2022 </i>
  </p>

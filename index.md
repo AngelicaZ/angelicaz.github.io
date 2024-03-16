@@ -67,7 +67,7 @@ ACCV 2024.
 ## Selected Honors
 
 * *2021* &nbsp;  the LCSR Distinguished Scholarship, Johns Hopkins University
-* *2020* &nbsp;  Outstanding Undergraduate Student, Beihang University
+* *2020* &nbsp;  Excellent Undergraduate Student
 * *2018* &nbsp;  First Prize of CUPT (China Undergraduate Physics Tournament) in North China Division, as the Captain of the Team Ⅱ
-* *2017* &nbsp;  Competitive-world Scholarship (top 1%), Beihang University
+* *2017* &nbsp;  Competitive-world Scholarship (top 1%)
 

@@ -6,9 +6,9 @@ email: <chenyu.zhang@unitn.it><br>
 [google scholar](https://scholar.google.com/citations?hl=en&user=mhQQsNgAAAAJ) / [twitter](https://twitter.com/AngelicaCZ2016)
 
 I am a first year PhD student of the [ELLIS PhD Program](https://ellis.eu/phd-postdoc), supervised by [Prof. Dr. Nicu Sebe](https://disi.unitn.it/~sebe/) in [MHUG](http://mhug.disi.unitn.it/#/), and 
-co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) in [AMLab](https://amlab.science.uva.nl/). My current research interests are on AI4Science, Science4AI, image generation and physics-based deep learning. Before PhD, I worked with [Prof. Dr. Alan Yuille](https://www.cs.jhu.edu/~ayuille/) in [CCVL](https://ccvl.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), on the topic of visual question answering and scene graph generation. 
+co-supervised by [Prof. Dr. Max Welling](https://staff.fnwi.uva.nl/m.welling/) in [AMLab](https://amlab.science.uva.nl/). My current research interests are on AI4Science, Science4AI, image generation and physics-based deep learning. Before PhD, I worked with [Prof. Dr. Alan Yuille](https://www.cs.jhu.edu/~ayuille/) in [CCVL](https://ccvl.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/). 
 
-
+Combining physics with AI is fun. Physics provides the framework for understanding the universe through mathematical models, offering insights into the fundamental laws that govern our world. AI, particularly through deep learning, enhances our ability to make predictions with remarkable accuracy, although often at the expense of interpretability. My works aims to bridge this gap, leveraging the precision of AI and the foundational principles of physics to develop innovative, interpretable models.
 
 
 

@@ -18,7 +18,7 @@ Combining physics with AI is fun. Physics provides the framework for understandi
 
 ## Selected Publications
 
-[1] <b>Chenyu Zhang*</b>, Daniil Cherniavskii*, Andrii Zadaianchuk*, Antonios Tragoudaras*, Antonios Vozikis, Thijmen Nijdam, Derck W. E. Prinzhorn, Mark Bodracska, Nicu Sebe, Efstratios Gavves. "[Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments](https://arxiv.org/pdf/2504.02918v1)"
+[1] <b>Chenyu Zhang</b><sup>&#42;</sup>, Daniil Cherniavskii<sup>&#42;</sup>, Andrii Zadaianchuk<sup>&#42;</sup> Antonios Tragoudaras<sup>&#42;</sup>, Antonios Vozikis, Thijmen Nijdam, Derck W. E. Prinzhorn, Mark Bodracska, Nicu Sebe, Efstratios Gavves. "[Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments](https://arxiv.org/pdf/2504.02918v1)"
 
 [2] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>.
 

@@ -18,14 +18,16 @@ Combining physics with AI is fun. Physics provides the framework for understandi
 
 ## Selected Publications
 
-[1] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>.
+[1] <b>Chenyu Zhang*</b>, Daniil Cherniavskii*, Andrii Zadaianchuk*, Antonios Tragoudaras*, Antonios Vozikis, Thijmen Nijdam, Derck W. E. Prinzhorn, Mark Bodracska, Nicu Sebe, Efstratios Gavves. "[Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments](https://arxiv.org/pdf/2504.02918v1)"
+
+[2] Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille. “[SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf)”, <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)</i>.
 
 <br>
 
 ## Academic Services
 Reviewer: <br>
-CVPR 2023, 2024. <br>
-ICCV 2023.  <br>
+CVPR 2023, 2024, 2025. <br>
+ICCV 2023, 2024, 2025.  <br>
 ECCV 2024.  <br>
 ACCV 2024.
 
@@ -43,7 +45,7 @@ ACCV 2024.
  <b> ELLIS PhD Program </b>   <br>
  <b> University of Trento </b>   <br>
  <i> PhD student in Computer Science </i> <br>
- <i> Nov. 2023 - Apr. 2027 </i>
+ <!-- <i> Nov. 2023 - Apr. 2027 </i> -->
  </p>
 
  <br>
@@ -62,15 +64,16 @@ ACCV 2024.
  <p style="text-align: right"> 
  <br> <br>
  <b> Johns Hopkins University </b>   <br>
- <i> M.S.E. Program in Robotics，Jan. 2021 - Dec. 2022 </i>
+ <i> M.S.E. Program in Robotics</i>
+ <!-- ，Jan. 2021 - Dec. 2022  -->
  </p>
 
 <br>
 
 ## Selected Honors
 
-* *2021* &nbsp;  the LCSR Distinguished Scholarship, Johns Hopkins University
-* *2020* &nbsp;  Excellent Undergraduate Student
-* *2018* &nbsp;  First Prize of CUPT (China Undergraduate Physics Tournament) in North China Division, as the Captain of the Team Ⅱ
-* *2017* &nbsp;  Competitive-world Scholarship (top 1%)
+* the LCSR Distinguished Scholarship, Johns Hopkins University
+* Excellent Undergraduate Student
+* First Prize of CUPT (China Undergraduate Physics Tournament) in North China Division, as the Captain of the Team Ⅱ
+* Competitive-world Scholarship (top 1% of University)
 

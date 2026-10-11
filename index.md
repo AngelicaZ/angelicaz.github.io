@@ -14,7 +14,7 @@ Antonios Tragoudaras<sup>&#42;</sup>, <b>Chenyu Zhang</b><sup>&#42;</sup>, Danii
 
 <b>Householder Projector for Unsupervised Latent Semantics Discovery of GANs and Diffusion</b><br>
 Jichao Zhang<sup>&#42;</sup>, <b>Chenyu Zhang</b><sup>&#42;</sup>, Wei Wang, Nicu Sebe, and Yue Song<br>
-<i>Under review, TCSVT</i>
+<i>Under review</i>
 
 <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_SwapMix_Diagnosing_and_Regularizing_the_Over-Reliance_on_Visual_Context_in_CVPR_2022_paper.pdf"><b>SwapMix: Diagnosing and Regularizing the Over-Reliance on Visual Context in Visual Question Answering</b></a><br>
 Vipul Gupta, Adam Kortylewski, Zhuowan Li, <b>Chenyu Zhang</b>, Yingwei Li, Alan Yuille<br>
